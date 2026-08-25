@@ -1,0 +1,12 @@
+{
+  "data-share": {
+    "shares": [
+      {
+        "name": "nginx-mainline"
+      },
+      {
+        "name": "nginx-mainline/data"
+      }
+    ]
+  }
+}
