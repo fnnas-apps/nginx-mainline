@@ -1,10 +1,12 @@
 appname               = nginx-mainline
 version               = 1.0.0
-display_name          = display-name
-desc                  = app-description
+display_name          = Nginx Mainline
+desc                  = High-performance HTTP and reverse proxy server (mainline branch)
 platform              = x86
 source                = thirdparty
-maintainer            = your-name
-distributor           = your-name
+maintainer            = Nginx Inc.
+maintainer_url        = https://nginx.org
+distributor           = evan755
+distributor_url       = https://github.com/fnnas-apps/nginx-mainline
 desktop_uidir         = ui
 desktop_applaunchname = nginx-mainline.Application
